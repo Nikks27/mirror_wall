@@ -1,16 +1,24 @@
 # mirror_wall
 
-A new Flutter project.
+<h1 align="center"> 1.Mirror Wall</h1>
 
-## Getting Started
+<h1 align="left"></h1>
 
-This project is a starting point for a Flutter application.
+<div align ="center">
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+   <img src = "https://github.com/user-attachments/assets/c281cdd9-953d-4b6a-b75b-29d5640efe58" height ="550">
+  <img src = "https://github.com/user-attachments/assets/bd4aa37e-2053-4f95-9b60-02799688ce38" height ="550">
+  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+
+https://github.com/user-attachments/assets/0c463ec0-20b4-4d80-921c-f155f25c9836
+
+
+
+
+
+
+</div>
